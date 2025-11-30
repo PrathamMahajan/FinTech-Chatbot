@@ -763,7 +763,7 @@ document.querySelectorAll('.nav-item').forEach((item) => {
             switchView('chat');
         } else {
             switchView('chat');
-            showToast('Reports view is coming soon.', 'info');
+            showToast('Reports.', 'info');
         }
     });
 });
